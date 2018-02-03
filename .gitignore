@@ -18,3 +18,5 @@
 .*sw[op]
 *~
 
+# old
+examples/*
